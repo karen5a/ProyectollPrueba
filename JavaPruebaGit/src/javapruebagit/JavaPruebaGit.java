@@ -11,12 +11,18 @@ package javapruebagit;
  */
 public class JavaPruebaGit {
 
+    String nombre;
+    int valor;
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo");
+    }
+
+    public String getNombre() {
+        return nombre;
     }
     
 }
