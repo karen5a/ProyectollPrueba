@@ -25,4 +25,8 @@ public class JavaPruebaGit {
         return nombre;
     }
     
+    public int getValor(){
+        return valor;
+    }
+    
 }
